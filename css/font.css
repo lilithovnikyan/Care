@@ -1,0 +1,36 @@
+@font-face {
+    src: url("../fonts/Sarabun-Regular.ttf");
+    font-family: "Sarabun-Regular";
+}
+@font-face {
+    src: url("../fonts/Sarabun-Bold.ttf");
+    font-family: "Sarabun-Bold";
+}
+@font-face {
+    src: url("../fonts/Sarabun-Medium.ttf");
+    font-family: "Sarabun-Medium";
+}
+@font-face {
+    src: url("../fonts/Sarabun-ExtraBold.ttf");
+    font-family: "Sarabun-ExtraBold";
+}
+@font-face {
+    src: url("../fonts/Sarabun-Light.ttf");
+    font-family: "Sarabun-Light";
+}
+@font-face {
+    src: url("../fonts/Sarabun-SemiBold.ttf");
+    font-family: "Sarabun-SemiBold";
+}
+@font-face {
+    src: url("../fonts/Prompt-Medium.ttf");
+    font-family: "Prompt-Medium";
+}
+@font-face {
+    src: url("../fonts/Prompt-Light.ttf");
+    font-family: "Prompt-Light";
+}
+@font-face {
+    src: url("../fonts/Prompt-Regular.ttf");
+    font-family: "Prompt-Regular";
+}
